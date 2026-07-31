@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0058-length-of-last-word) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
