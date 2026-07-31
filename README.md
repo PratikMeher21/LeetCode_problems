@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
