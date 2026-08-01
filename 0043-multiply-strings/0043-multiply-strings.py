@@ -23,5 +23,6 @@ class Solution:
             result.pop(0)
 
         return ''.join(map(str, result))
+        
 
         
