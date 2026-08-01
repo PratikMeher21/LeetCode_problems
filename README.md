@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0086-partition-list) |
@@ -77,5 +78,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0043-multiply-strings) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
