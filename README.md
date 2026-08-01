@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
