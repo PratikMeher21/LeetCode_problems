@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0058-length-of-last-word) |
+| [0567-permutation-in-string](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -46,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0148-sort-list) |
+| [0567-permutation-in-string](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0141-linked-list-cycle) |
+| [0567-permutation-in-string](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0102-binary-tree-level-order-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
