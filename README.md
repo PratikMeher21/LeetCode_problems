@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0054-spiral-matrix) |
+| [0169-majority-element](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
@@ -80,11 +82,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -122,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0045-jump-game-ii) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
