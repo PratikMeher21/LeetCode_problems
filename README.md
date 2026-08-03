@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0054-spiral-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0229-majority-element-ii) |
 ## Binary Search
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0229-majority-element-ii) |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0229-majority-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
