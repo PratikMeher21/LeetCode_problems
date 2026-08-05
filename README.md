@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0058-length-of-last-word) |
 | [0567-permutation-in-string](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0567-permutation-in-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0141-linked-list-cycle) |
@@ -145,4 +147,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0724-find-pivot-index) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
