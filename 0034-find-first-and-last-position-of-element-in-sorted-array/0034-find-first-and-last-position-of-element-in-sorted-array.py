@@ -8,13 +8,11 @@ class Solution:
             while left <= right:
                 mid = (left + right) // 2
 
-                if nums[mid] == target:
-                    ans = mid
-                    right = mid - 1      # Search left half
-                elif nums[mid] < target:
-                    left = mid + 1
+                if nums[mid] >= target:
+                    ans=mid
+                    right=mid-1
                 else:
-                    right = mid - 1
+                    left=mid+1
 
             return ans
 
@@ -26,14 +24,17 @@ class Solution:
             while left <= right:
                 mid = (left + right) // 2
 
-                if nums[mid] == target:
-                    ans = mid
-                    left = mid + 1       # Search right half
-                elif nums[mid] < target:
-                    left = mid + 1
+                if nums[mid] <= target:
+                    ans=mid
+                    left=mid+1
                 else:
-                    right = mid - 1
+                    right=mid-1 
 
             return ans
+
+        first = findFirst()
+
+        if first == -1 or nums[first] != target:
+            return [-1, -1]
 
         return [findFirst(), findLast()]
