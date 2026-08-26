@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0724-find-pivot-index) |
+| [1266-minimum-time-visiting-all-points](https://github.com/PratikMeher21/LeetCode_problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PratikMeher21/LeetCode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0060-permutation-sequence) |
 | [0268-missing-number](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0268-missing-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/PratikMeher21/LeetCode_problems/tree/master/1266-minimum-time-visiting-all-points) |
 ## Recursion
 |  |
 | ------- |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PratikMeher21/LeetCode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/PratikMeher21/LeetCode_problems/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
