@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0229-majority-element-ii) |
 | [0704-binary-search](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0724-find-pivot-index) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0229-majority-element-ii) |
 | [0567-permutation-in-string](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0567-permutation-in-string) |
 ## Stack
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/PratikMeher21/LeetCode_problems/tree/master/0229-majority-element-ii) |
 ## Merge Sort
 |  |
